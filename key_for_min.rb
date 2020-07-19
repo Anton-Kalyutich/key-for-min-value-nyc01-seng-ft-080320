@@ -7,5 +7,6 @@ def key_for_min_value(name_hash)
     values << value
   end
   min_value = values[0]
-  values.each 
+  values.each do |value|
+    
 end
